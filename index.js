@@ -1,5 +1,5 @@
 
-    console.log(positiveNumber);
+
     function writeCards (names, event) {
       const messages = [];
       for (let i = 0; i < names.length; i++){
